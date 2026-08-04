@@ -1,6 +1,6 @@
 # Hi 👋 I'm Shravan Kumaar
 
-### Revenue Operations Analyst · GTM Analytics & RevOps Systems
+### Revenue/Sales Operations Analyst · GTM Analytics & RevOps Systems
 
 Turning messy pipeline, billing, and CRM data into decisions Sales and Exec teams can actually act on.
 📍 Hayward, CA (Bay Area) · [LinkedIn](https://linkedin.com/in/) · [Portfolio](#) · shravankumaar96@gmail.com
