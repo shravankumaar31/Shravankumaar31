@@ -3,7 +3,7 @@
 ### Revenue/Sales Operations Analyst · GTM Analytics & RevOps Systems
 
 Turning messy pipeline, billing, and CRM data into decisions Sales and Exec teams can actually act on.
-📍 Hayward, CA (Bay Area) · [LinkedIn](https://linkedin.com/in/) · [Portfolio](#) · shravankumaar96@gmail.com
+📍 Hayward, CA (Bay Area) · [LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/shravan-kumaar/)) · [Portfolio](#) · shravankumaar96@gmail.com
 
 ---
 
