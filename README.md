@@ -8,13 +8,13 @@
 
 ## 🛠 What I build
 
-- **Lead enrichment and routing at scale:** 50,000+ leads a month enriched with Clay and ZoomInfo, scored against the ICP with Claude, and routed into Salesforce through n8n, sourcing **$8M in pipeline**
-- **Territory and quota automation:** assignment rules that keep 500+ accounts balanced across 45 reps as accounts change
-- **Sales ops workflow automation:** 30+ workflows across HubSpot and Salesforce plus a custom CPQ integration, eliminating **20 hours of manual work a week** and cutting quote generation from **2 hours to 15 minutes**
-- **Customer health scoring:** product usage and CRM signals combined into a health score that flagged 70+ at-risk accounts and helped reduce churn from **34% to 22%**
-- **AI on top of the CRM:** a webhook-based Gong to Salesforce integration with Claude summarization, putting call summaries on **93% of account records** for 45 reps
-- **CRM data integrity:** duplicate and matching rules that cut duplicates by **95%**, a 15,000-contact migration into HubSpot, and validation rules that raised field completeness from **65% to 91%**
-- **Self-service revenue reporting:** a Salesforce dashboard that replaced 12 manual weekly reports, with Zapier alerts on routing and health-score changes
+- **Lead enrichment and routing:** 300+ target accounts a month enriched with Clay and ZoomInfo, scored for ICP fit with Claude, and routed into Salesforce through n8n, sourcing **$2.4M in pipeline**
+- **Quote and workflow automation:** 5+ HubSpot and Salesforce workflows plus a custom CPQ integration, cutting quote turnaround from **2 hours to 20 minutes** and saving **10 hours of manual work a week**
+- **Customer health scoring:** product usage and CRM engagement combined into a health score that flags at-risk accounts and routes them to CSMs, reducing churn from **28% to 22%** over 2 quarters
+- **AI on top of the CRM:** a webhook-based Gong to Salesforce integration with Claude summarization, putting call summaries on **90% of accounts** for 15+ reps
+- **Territory automation:** automated territory assignment that balances 300+ accounts across 15+ reps, lifting quota attainment from **81% to 91%**
+- **CRM data integrity:** duplicate and matching rules that cut duplicates by **95%**, a 15,000-contact migration into HubSpot, and validation rules that raised field completeness from **65% to 88%**
+- **Leadership reporting:** a self-service Tableau dashboard suite on PostgreSQL covering pipeline, forecast and rep performance, replacing **8 manual weekly reports**, with n8n alerts on routing changes
 
 ---
 
@@ -85,16 +85,18 @@ A scheduled data pipeline that scores U.S. aerospace supply chain risk and uses 
 
 | Result | Impact |
 |---|---|
-| Pipeline sourced from automated enrichment and routing | **$8M** |
-| Leads enriched, scored and routed per month | **50,000+** |
-| Manual sales ops work eliminated per week | **20 hours** |
-| Quote generation time | **2 hours → 15 minutes** |
-| Customer churn | **34% → 22%** |
+| Pipeline sourced from automated enrichment and routing | **$2.4M** |
+| Target accounts enriched, scored and routed per month | **300+** |
+| Manual sales ops work eliminated per week | **15+ hours** |
+| Quote turnaround time | **2 hours → 20 minutes** |
+| Customer churn | **28% → 22%** |
+| Sales team quota attainment | **81% → 91%** |
 | Duplicate CRM records | **−95%** |
-| CRM field completeness | **65% → 91%** |
-| Account records with AI call summaries | **93%** |
-| Alexa NLP model accuracy (Amazon) | **89% → 92%** |
-| Annotator ramp-up time (Amazon) | **−50%** |
+| CRM field completeness | **65% → 88%** |
+| Accounts with AI call summaries | **90%** |
+| Manual weekly reports replaced | **8** |
+| Data pipeline accuracy (Amazon) | **89% → 92%** |
+| Onboarding ramp-up time (Amazon) | **−40%** |
 
 ---
 
